@@ -1,7 +1,7 @@
 # Crud-Firebase
 
 <p align="center" style="background-color: #F8A65D;">
-    <img alt="inside image" src="https://res.cloudinary.com/practicaldev/image/fetch/s--lujt_aSx--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/sd35dnqzrrjhhlz93zzf.png" width="480px">
+    <img alt="inside image" src="https://res.cloudinary.com/practicaldev/image/fetch/s--lujt_aSx--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/sd35dnqzrrjhhlz93zzf.png" width="580px">
     <h1 align="center">CRUD Fire</h1>
 </p>
 <h4 align="center">System of CRUD built with HTML, Javascript, Bootstrap & Firebase</h4>
@@ -13,7 +13,7 @@
 
 # Interface
 
-![PHP!](https://github.com/Arthur756/INSIDE-CRUD-/blob/271586be70ea0db750060e0746afb07a65ee39e1/APPLICATION%20WEB%20PICTURE.jpg)
+![FIREBASE!](https://github.com/Arthur756/Crud-Firebase/blob/71a89fc97fffcc17bfdfbabcad3b657b3602e31a/fire.jpg)
 ---
 
 
@@ -82,14 +82,3 @@ The codebase unfortunately isn't much covered by tests.
 Created with pride by [Arthur](www.linkedin.com/in/arthur-belfort-7568b8f34).
 
 Personal [Website](https://abdesign20artc6cf.myportfolio.com/).
-
-
-# Logo
-
-![PHP!](https://github.com/Arthur756/INSIDE-CRUD-/blob/022bc5be65720340363074d49d7d095c39f564fc/INSIDE%20LOGO.jpg)
-
-
-
-# PhpMyAdmin
-
-![PHPMYADMIN!](https://installatron.com/images/remote/ss1_phpmyadmin.png)
